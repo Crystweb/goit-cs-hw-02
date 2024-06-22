@@ -22,7 +22,7 @@
 Клонуйте `FastAPI` застосунок, налаштуйте і запустіть його в `Docker` контейнері. Перевірте правильність роботи застосунку та підключення до бази даних.
 
 ### Покрокова інструкція
-1. Використовуючи команду `git clone`, клонуйте репозиторій за адресою [<https://github.com>](<https://github.com/GoIT-Python-Web/Computer-Systems-hw02>). Перейдіть у клонований каталог.
+1. Використовуючи команду `git clone`, клонуйте репозиторій за адресою [<https://github.com/GoIT-Python-Web/Computer-Systems-hw02>](<https://github.com/GoIT-Python-Web/Computer-Systems-hw02>). Перейдіть у клонований каталог.
 2. Створіть `Dockerfile` із вказівками для створення образу `Docker` застосунку.
 3. Напишіть `docker-compose.yaml` з конфігурацією для застосунку та `PostgreSQL`.
 4. Використайте `Docker Compose` для побудови середовища, команду `docker-compose up` для запуску середовища.
